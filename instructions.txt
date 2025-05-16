@@ -47,8 +47,8 @@ Export Types
 1. Default 
 
 Anything
-1.Variable To store data/someting Temp
-2.Function
+1. Variable To store data/someting Temp
+2. Function
 3. Array
 3. Class
 4. Class Object

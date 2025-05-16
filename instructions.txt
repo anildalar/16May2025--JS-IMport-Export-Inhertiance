@@ -1,0 +1,66 @@
+. JS Class
+. JS Class Inheritance/ 
+derived class
+
+Parent Class = ?
+Child Class  = Derived Class
+
+
+
+1. 2 Class
+2. Parent Child -> extends keyword
+3. Create Child Class Object
+
+ChildClass extends ParentClass
+
+A Class (Parent)
+	B Class (Child)
+
+Types of Inheritance
+1. Single Inheritance
+2. Multilevel Inheritance
+  
+
+Assignment for Multilevel Inhertiace
+A a=1
+  B b=1
+    C c=1
+	..
+	   Z z=1
+
+Create Z object
+Result should be 26.
+
+
+
+
+
+
+. JS Import / Export
+1. Reusability
+2. Maintainability
+
+I can export anything
+I can import anything
+
+Export Types
+1. Default 
+
+Anything
+1.Variable To store data/someting Temp
+2.Function
+3. Array
+3. Class
+4. Class Object
+5. JS Object
+6. [{}]
+7. {p:v}
+
+
+
+
+
+
+
+
+
